@@ -1,0 +1,7 @@
+git config –global user.name “harshamukund4070”
+git config –global user.email harshamukundhaaripaka@gmail.com
+git clone https://github.com/harshamukund4070/git-harsha.git
+cd git-harsha
+git add .
+git commit -m “yes”
+git push
